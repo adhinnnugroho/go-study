@@ -5,9 +5,7 @@
 
 <img align="right" alt="Go Gopher" width="300" src="https://golang.org/doc/gopher/frontpage.png">
 
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+
 
 Welcome to my **Go Study** repository! This repo serves as my personal documentation and learning path for mastering the Go programming language. It includes notes, code snippets, example projects, and other resources that I've found useful along the way.
 
