@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Mapmain() {
 	//
 	// var person map[string]string = map[string]string{}
 	// person["name"] = "John Doe"
